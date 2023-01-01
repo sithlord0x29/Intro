@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @erteh00
-- 👀 I’m interested in Solidity, Python, Web3 and front-end development...
-- 🌱 I’m currently learning Solidity, ReactJS, NodeJS and Python ...
-- 💞️ I’m looking to collaborate on Blockchain projects and Smart Contracts
-
-<!---
-erteh00/erteh00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @sithlord0x29
+- 👀 I’m interested in Solidity, Web3 and Security Auditing...
+- 🌱 I’m currently learning Solidity, ReactJS, NextJS, NodeJS and Web3 tools (Hardhat, Ethers JS)
+- 💞️ I’m looking to collaborate on Smart Contracts audits
